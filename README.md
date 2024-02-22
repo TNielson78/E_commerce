@@ -37,13 +37,10 @@ Updates, displays and deletes inventory.
 
     
 
+![get all](https://github.com/TNielson78/e_commerce/assets/147010160/ad08a0b2-e2cc-4f78-bbd3-1112c210dc9c)
 
-    ![get all](https://github.com/TNielson78/e_commerce/assets/147010160/e157e4db-660e-4e4f-ab98-01c0aa4c7e51)
 
-    ![get one](https://github.com/TNielson78/e_commerce/assets/147010160/88fb30c5-c222-4e8d-8738-e01e3a0944c8)
 
-    
-    ![tags one](https://github.com/TNielson78/e_commerce/assets/147010160/19af2ea4-891d-43df-9dc8-a6bd081f122d)
 
 
 
