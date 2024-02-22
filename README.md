@@ -30,6 +30,7 @@ Updates, displays and deletes inventory.
 ## Questions
 * GitHub: [https://github.com/TNielson78/e_commerce](
 * Email: travis.nielson01@gmail.com
+* Link to video:https://drive.google.com/file/d/1i1RofFM3EdHPz3PFA3ndTJspBIE1ZEZW/view
 ## License   
     licensed under the MIT license
 
